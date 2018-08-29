@@ -1,37 +1,69 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/yes1017176074/yes1017176074.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## 钟世梅的个人简历
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![](./1.jpg)
+## 个人信息
 
-### Markdown
+### 姓名：钟世梅
+### 性别：女
+### 出生年月：1995-02
+### 身高：155cm
+### 性别：女
+---
+### 电话：18376997914
+### 邮箱：1533412073@qq.com
+### 住址：广西梧州
+### 专业：计算机科学与技术（软件工程方向）
+---
+## 教育背景 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+`2015.09-2019.06`   `广西民族相思湖学院` `本科`     `计算机科学与技术(软件工程)`
 
-```markdown
-Syntax highlighted code block
+### 主修课程：
 
-# Header 1
-## Header 2
-### Header 3
+数据库系统、移动应用程序设计基础、PHP程序设计、网页设计、软件工程、UI设计、数据结构与算法、平面设计、程序设计基础等
 
-- Bulleted
-- List
+## 求职意向
+---
+### 职位：前端开发/PHP开发    
+### 薪资：面议    
+### 期望工作地点: 南宁或广西附近
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+## 专业技能
+---
+1. 熟练掌握HTML/HTML5、CSS/CSS3，能熟练运用HTML+CSS制作静态页面
+2. 熟练使用原生JS操作BOM、DOM、事件，并能熟练使用jQuery
+3. 拥有良好的代码规范，结构清晰，逻辑性强，代码冗余率低，具有一定抗压能力
+4.熟悉mysql数据库
+5. 熟悉PHP实现和工作原理，熟悉一种以上流行的PHP框架，如：CI
+6. 具有较强的独立学习能力，良好的团队意识和协作精神、内外沟通能力。
+## 荣誉证书
+1. 英语：CET-4
+2. 计算机：2017年12月第十一届广西高校计算机应用大赛二等奖
+3. 2016：学院二等奖学金
+4. 2017：学院二等奖学金
 
-[Link](url) and ![Image](src)
-```
+## 实践经历
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+1. 实习实训信息管理系统       角色：程序员
+### 项目描述：
+实习实训信息管理系统的主要功能是管理学生在实习实训期间的信息，分有学生模块、教师模块、企业模块、管理员模块。
+### 功能描述：
+学生模块：登录基本模块，编辑个人信息、提交实训日志、实训总结、查看老师推荐企业、准备个人简历、提交实习月报、实习总结、分享岗位信息、岗位查询；
 
-### Jekyll Themes
+教师模块：登录基本模块、个人信息管理、发布实训计划、推荐实习企业、评价实训月报和总结；
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yes1017176074/yes1017176074.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+公司模块：登录基本模块、HR信息、公司信息、岗位招聘、实习考核、查看投递人信息；
 
-### Support or Contact
+开发环境及工具：webstorm、phpstorm、phpstudy
+实现过程：在指导老师的指导下，单人独立完成了整个项目，包括页面设计、开发、等。
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+需求阶段：严格按照软件工程中开发软件的流程开发了整个项目，使用“用例图”、“E-R图”、“结构图”等进行了项目的需求分析、概要设计、详细设计。
+
+开发阶段：使用H5+C3+Bootstrap以及jQuery库进行前端页面的开发，使用了基于PHP的CI框架进行网站的后台开发，使用MySQL数据库作为项目的后台数据库。
+
+
+### 自我评价
+---
+自我学习能力还是比较强的,做事认真。专业知识较扎实，有积极的工作态度,能够独立工作又有团队精神。具有良好的文化素质,在未来的工作中,我将以充沛的精力,努力工作,稳定地进步自己的工作能力。
